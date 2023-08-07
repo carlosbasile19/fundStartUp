@@ -2,7 +2,7 @@
   "name": "give-forever",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jamesbachini.github.io/GiveForever/",
+  "homepage": "https://carlosbasile19.github.io/fundStartUp/",
   "dependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.0",
     "@nomiclabs/hardhat-etherscan": "^3.1.0",
