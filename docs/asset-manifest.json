@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fundStartUp/static/css/main.3bcd7a53.css",
+    "main.js": "/fundStartUp/static/js/main.520259c5.js",
+    "static/js/787.4954b547.chunk.js": "/fundStartUp/static/js/787.4954b547.chunk.js",
+    "index.html": "/fundStartUp/index.html",
+    "main.3bcd7a53.css.map": "/fundStartUp/static/css/main.3bcd7a53.css.map",
+    "main.520259c5.js.map": "/fundStartUp/static/js/main.520259c5.js.map",
+    "787.4954b547.chunk.js.map": "/fundStartUp/static/js/787.4954b547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bcd7a53.css",
+    "static/js/main.520259c5.js"
+  ]
+}
